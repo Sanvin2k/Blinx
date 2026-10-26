@@ -15,3 +15,13 @@ Download the latest Windows installer from the [Releases](https://github.com/San
 
 ## License
 Free to download and use.
+## Screenshots
+
+### Main Screen
+![BLINX Main Screen](https://github.com/Sanvin2k/Blinx/blob/main/1%20(10).png?raw=true)
+
+### Search Results
+![BLINX Search Results](PASTE_RAW_IMAGE_URL_HERE)
+
+### Settings
+![BLINX Settings](PASTE_RAW_IMAGE_URL_HERE)
