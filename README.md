@@ -19,7 +19,7 @@ BLINX is a modern Windows launcher designed to help users find and open files qu
 ![BLINX Main Screen](https://github.com/Sanvin2k/Blinx/blob/main/1%20(7).png?raw=true)
 ![BLINX Main Screen](https://github.com/Sanvin2k/Blinx/blob/main/1%20(8).png?raw=true)
 ![BLINX Main Screen](https://github.com/Sanvin2k/Blinx/blob/main/1%20(9).png?raw=true)
-![BLINX Main Screen](https://github.com/Sanvin2k/Blinx/blob/main/1%20(10).png?raw=true)
+
 
 
 
